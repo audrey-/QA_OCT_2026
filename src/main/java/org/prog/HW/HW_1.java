@@ -1,4 +1,4 @@
-package org.prog.session1;
+package org.prog.HW;
 
 public class HW_1 {public static void main(String[] args) {
     int count3 = 0;
