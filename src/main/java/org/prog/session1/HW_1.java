@@ -16,7 +16,7 @@ public class HW_1 {public static void main(String[] args) {
         }
         if (i > 0 && i % 13 == 0) {
             System.out.println(i +" - делится на 13 без остатка ");
-            count13++;
+            count13++;\\\\\\\\\\\\\\\\\\\\\\\\
         }
     }
 
